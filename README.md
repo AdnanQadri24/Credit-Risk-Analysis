@@ -62,11 +62,13 @@ Business Insights & Recommendations
 
 ### Executive Overview
 
-> **
+![Overview Page](dashboard/Overview_Page.png)
+
+---
 
 ### Credit Risk Analysis
 
-> *(Insert screenshot of Page 2 here)*
+![Credit Risk Analysis by Default Rate](dashboard/Credit_Risk_Analysis_by_Default_Rate.png)
 
 ---
 
