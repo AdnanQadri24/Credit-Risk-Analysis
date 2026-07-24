@@ -78,7 +78,7 @@ Business Insights & Recommendations
 - Borrowers applying for **Debt Consolidation** loans show the highest default risk, followed by Medical and Home Improvement intents.
 - Applicants in the **Low Income** category experience substantially higher default rates compared to middle and high-income groups.
 - Borrowers with **Rent** home ownership status tend to default more frequently than home owners.
-- Younger borrowers (**Below 25 years old**) exhibit relatively higher default rates than older age groups.
+- Younger borrowers exhibit relatively higher default rates than older age groups.
 
 ---
 
