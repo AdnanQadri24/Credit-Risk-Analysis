@@ -66,9 +66,9 @@ Business Insights & Recommendations
 
 ---
 
-### Credit Risk Analysis
+### Credit Risk Analysis Based on Default Rate
 
-![Credit Risk Analysis by Default Rate](dashboard/Credit_Risk_Analysis_by_Default_Rate.png)
+![Credit Risk Analysis Based on Default Rate](dashboard/Credit_Risk_Analysis_Based_on_Default_Rate.png)
 
 ---
 
@@ -107,7 +107,7 @@ Credit-Risk-Analysis/
 ├── dashboard/
 │   ├── Credit_Risk.pbix
 │   ├── Overview_Page.png
-│   └── Credit_Risk_Analysis_by_Default_Rate.png
+│   └── Credit_Risk_Analysis_Based_on_Default_Rate.png
 │
 ├── reports/
 │   └── Youtube_Video.md
